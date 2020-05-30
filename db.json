@@ -1,8 +1,32 @@
 {
-  "posts": [
+  "title": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "date",
+      "sortable": false
+    },
+    {
+      "name": "city",
+      "sortable": false
+    },
+    {
+      "name": "brand",
+      "sortable": false
+    },
+    {
+      "name": "item",
+      "sortable": false
+    },
+    {
+      "name": "units",
+      "sortable": false
+    },
+    {
+      "name": "per unit cost",
+      "sortable": false
+    },
+    {
+      "name": "total",
+      "sortable": false
     }
   ],
   "profile": {
